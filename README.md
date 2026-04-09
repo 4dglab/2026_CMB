@@ -1,8 +1,8 @@
 # 2026_CMB
 
 ## 课程pdf下载方式
-![1](Snipaste_2026-04-07_16-00-23.png "step1")
-![2](Snipaste_2026-04-07_16-02-48.png "step2")
+![1](slides_download1.png "step1")
+![2](slides_download2.png "step2")
 建议使用谷歌浏览器打开，如果校园网加载较慢可以多点几次。
 
 ## Rstudio安装
